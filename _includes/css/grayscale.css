@@ -332,6 +332,10 @@ ul.banner-social-buttons li {
     ul.banner-social-buttons li:last-child {
         margin-bottom: 0;
     }
+
+    iframe {
+        width: 50%;
+    }
 }
 
 footer {
